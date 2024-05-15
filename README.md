@@ -10,3 +10,6 @@
 `"scripts": {
 "test": "jest --coverage"
 }`
+
+## executar teste
+`npm run test`
