@@ -1,4 +1,4 @@
-# Configuração
+# Comandos e configuração
 
 ## npm init
 `npm init`
